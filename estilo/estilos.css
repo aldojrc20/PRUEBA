@@ -5,6 +5,7 @@
 }
 body{
     padding-top: 50px;
+    background-color: black;
 }
 .galeria{
     width: 90%;
@@ -54,4 +55,8 @@ body{
     .galeria{
         width: 1200px;
     }
+}
+
+h2{
+    font-size: 3em;
 }
