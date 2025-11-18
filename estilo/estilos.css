@@ -60,4 +60,6 @@ body{
 h1{
     font-size: 3em;
     color: white;
+    justify-content: center;
+    align-content: center;
 }
